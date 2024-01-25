@@ -1,15 +1,15 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Falikh Rifqi Nail</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate Software Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falikhnail&label=Profile%20views&color=0e75b6&style=flat" alt="imlyxng" /> </p>
 
-- 🔭 I’m currently studies on **University Dian Nuswantoro**
+- 🔭 I'm currently working at **RSIA Miriam**.
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I'm currently learning **Android Developer**
 
-- 💬 Ask me about **Php, Android, Azure**
+- 💬 Ask me about **Php, Laravel, Java Script**
 
 - 📫 How to reach me **im.lyxng@gmail.com**
 
