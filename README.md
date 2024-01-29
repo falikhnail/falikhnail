@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Php, Laravel, Java Script**
 
-- 📫 How to reach me **im.lyxng@gmail.com**
+- 📫 How to reach me **falikhrifqi69@gmail.com**
 
 - ⚡ Fun fact **I think I'am handsome**
 
