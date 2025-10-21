@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falikhnail&label=Profile%20views&color=0e75b6&style=flat" alt=falikhnail" /> </p>
 
-- 🔭 I'm currently working at **RSIA Miriam**.
+- 🔭 I'm currently working at **Home as a Freelancer**.
 
-- 🌱 I'm currently learning **Android Developer**
+- 🌱 I'm currently learning **Web Developer**
 
 - 💬 Ask me about **Php, Laravel, Java Script**
 
