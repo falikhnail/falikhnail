@@ -1,68 +1,109 @@
-<!-- EYECATCHING GITHUB README FOR FALIKH RIFQI NAIL -->
+# ⚡ Falikh Rifqi Nail
+**Web Developer • Tech Explorer • Fullstack Builder**
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/1a/04/1e/1a041e1c8c793c2fbd8768c2966ac5e8.gif" width="500"/>
-</p>
+![banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-<h1 align="center">Hi, I'm <span style="color:#8b5cf6;">Falikh Rifqi Nail</span> 👋</h1>
-<h3 align="center">Full-Stack Web Developer • Next.js • Laravel • React</h3>
+> _"Build fast, fail fast, learn faster."_
 
 ---
 
-## 🚀 About Me
-I'm a full-stack developer who loves building modern, fast, and scalable web applications.  
-Creating interfaces, backend logic, and solving real-world problems—that’s my zone.
+## 🌌 About Me
+Saya adalah Web Developer yang fokus pada pembuatan aplikasi modern, cepat, dan efisien.  
+Menguasai **Next.js, Node.js, Laravel**, sistem backend, UI modern, dan animasi neon.
+
+Handle **5 project per hari**, terbiasa dengan deadline cepat, dan tetap menjaga clean code.
 
 ---
 
-## 💡 Tech Stack
-<div align="center">
+## ⚡ Tech Stack & Skills
 
-**Frontend:** React • Next.js • TailwindCSS • JavaScript • TypeScript  
-**Backend:** Laravel • PHP • Node.js  
-**Database:** MySQL • PostgreSQL  
-**Tools:** Git • Figma • VSCode
+### 🚀 Main Stack
+- Next.js, React, TypeScript  
+- Node.js, Express  
+- Laravel, PHP  
+- PostgreSQL, MySQL  
+- TailwindCSS, Shadcn/UI  
+- API Integration, Deployment, Git, CI/CD  
 
-</div>
-
----
-
-## 🛠️ Highlight Projects
-
-### 🔹 SIMAS Intel — Sistem Informasi Intelijen
-- Next.js + TypeScript + Tailwind
-- Dashboard modern & realtime
-- API terstruktur & secure
+### 🎨 Frontend & Motion
+- Neon Glow UI  
+- Hover 3D Effects  
+- Glitch Text  
+- Scroll / Parallax Animation  
+- Cyberpunk Interface  
 
 ---
 
-### 🔹 Portfolio Website (Active)
-- React + Vite + Tailwind + shadcn/ui
-- Animasi smooth + dark mode
+## 🧩 Services
+- ⚡ Web App (Next.js)  
+- 🚀 Backend & API  
+- 🎨 UI/UX Motion Development  
+- 🔧 System Automation  
 
 ---
 
-### 🔹 MasterMusic Management
-- Sistem manajemen event & talent
-- UI minimalis & responsif
+## 🎖 Custom Badges
+![badge1](https://img.shields.io/badge/Next.js-Specialist-000?style=for-the-badge&logo=next.js)
+![badge2](https://img.shields.io/badge/Fullstack-Developer-7000ff?style=for-the-badge&logo=react)
+![badge3](https://img.shields.io/badge/Cyberpunk-UI_Designer-00f0ff?style=for-the-badge)
+![badge4](https://img.shields.io/badge/5_Projects/Day-Handler-ff00aa?style=for-the-badge)
 
 ---
 
-## 🌈 Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=falikhnail&show_icons=true&theme=tokyonight" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=falikhnail&theme=tokyonight" width="450" />
-</p>
+## 🕒 Project Timeline
+2025 — IntelJS (Next.js + TS)  
+2024 — MasterMusic (Management System)  
+2023 — Portfolio Revamp v2 (Motion UI)  
+2022 — Furniture Marketplace API Integration
 
 ---
 
-## 📬 Connect With Me
-<div align="center">
-  <a href="https://linkedin.com/in/falikhrifqinail">🔗 LinkedIn</a> •
-  <a href="https://instagram.com/falikhnail">📸 Instagram</a> •
-  <a href="mailto:falikhrifqi69@gmail.com">📧 Email</a>
-</div>
+## 🖥️ Featured Projects
+- **IntelJS System** – Next.js dashboard modern  
+- **MasterMusic** – Music management system  
+- **SIMAS Intel** – Sistem instansi (Next.js + TS)  
+- **Portfolio Neon V2** – Hover 3D + glitch + particle  
 
 ---
 
-<p align="center"><i>"Build fast. Build clean. Build with passion."</i></p>
+## 🎞 Coding Vibes (GIF Dijamin Tampil)
+![gif1](https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif)
+![gif2](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+![gif3](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+![gif4](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+---
+
+## 📊 GitHub Stats (Glow Theme)
+![stats](https://github-readme-stats.vercel.app/api?username=falikh&show_icons=true&theme=tokyonight)
+![streak](https://github-readme-streak-stats.herokuapp.com?user=falikh&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falikh&layout=compact&theme=tokyonight)
+
+---
+
+## 🔁 Daily Coding Routine
+
+☕ 08:00 — Debug ringan  
+💻 09:00 — Build component Next.js  
+🚀 11:00 — Deploy & test  
+🍜 13:00 — Break  
+🎨 14:00 — UI + Animations  
+📦 16:00 — Handle 5 project  
+🌙 20:00 — Freelance  
+🔥 23:00 — Belajar AI
+
+---
+
+## 🌟 Signature Quote  
+> _"Great things are crafted, not rushed."_
+
+---
+
+## 🔗 Connect With Me
+- **Email:** falikhrifqi69@gmail.com  
+- **WhatsApp:** 085156796373  
+
+---
+
+### © 2025 • Falikh Rifqi Nail • Neon Cyber README
