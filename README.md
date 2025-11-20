@@ -1,125 +1,96 @@
-FALIKH RIFQI NAIL
-Full-Stack Web Developer
-Specialist in Next.js, Modern Frontend Architecture, and Scalable Web Systems
-Professional Overview
+<!-- Header Title with Gold Gradient -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Garamond&size=40&duration=3000&color=D4AF37&center=true&vCenter=true&width=700&lines=FALIKH+RIFQI+NAIL;Full-Stack+Web+Developer;Next.js+%7C+TypeScript+%7C+Enterprise+Systems" />
+</h1>
 
-I am a full-stack web developer with strong expertise in Next.js and modern web engineering.
-My work focuses on creating high-performance applications with clean architecture, maintainable code policies, and scalable technical foundations.
+<!-- Gold Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigoodhin/rodrigoodhin/main/gold-divider.gif" width="600" />
+</p>
 
-I actively manage multiple projects in parallel—often five or more concurrent Next.js applications—while maintaining consistency, accuracy, and clear communication with stakeholders. My development approach emphasizes reliability, clarity, and long-term sustainability.
+## 🟦 **Professional Summary**
+I am a full-stack web developer specializing in **Next.js**, **TypeScript**, and enterprise-grade web systems.  
+I manage multiple high-demand projects simultaneously with architectural consistency, predictable delivery,  
+and long-term maintainability.
 
-Technical Expertise
-Frontend Engineering
+---
 
-Next.js (App Router, Server Components, Server Actions)
+# 🟨 **Skills — Premium Gold Edition**
 
-React Ecosystem
+## **Frontend Development**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37" />
+</p>
 
-TypeScript
+## **Backend Development**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/CodeIgniter-000000?style=for-the-badge&logo=codeigniter&logoColor=D4AF37" />
+</p>
 
-Tailwind CSS & Modular UI Architecture
+## **Database & ORMs**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Eloquent ORM-000000?style=for-the-badge&logo=laravel&logoColor=D4AF37" />
+</p>
 
-shadcn/ui Component Standardization
+## **DevOps & Deployment**
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Linux%20Server-000000?style=for-the-badge&logo=linux&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=D4AF37" />
+</p>
 
-Advanced State Management
+## **Other Skills**
+<p>
+  <img src="https://img.shields.io/badge/API%20Integration-000000?style=for-the-badge&logo=internetcomputer&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20System%20Design-000000?style=for-the-badge&logo=figma&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Performance%20Optimization-000000?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" />
+</p>
 
-Accessibility & Responsive Interface Design
+---
 
-Backend Engineering
+## 🟧 **Enterprise Capabilities**
+- Full-stack development with scalable architecture  
+- Next.js SSR/ISR optimization  
+- Backend API & authentication systems  
+- UI/UX component system engineering (shadcn/ui)  
+- Security, performance, and infrastructure reliability  
+- Multi-project execution (up to 5+ Next.js systems)
 
-Node.js / Express
+---
 
-Laravel Framework
+## 🟩 **Animated GitHub Stats — Gold Frame**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=falikh&show_icons=true&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=000000" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=falikh&theme=black-ice&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" height="170" />
+</p>
 
-CodeIgniter
+---
 
-API Development & Integration
+## 🟨 **Luxury Animated Wave**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
+</p>
 
-Authentication & Authorization Systems
+---
 
-Database Architecture (MySQL, PostgreSQL, Prisma, Eloquent)
+## 🖤 **Contact**
+**Email:** falikhrifqi69@gmail.com  
+**Portfolio:** Available on Request  
+**Enterprise Projects:** Currently Active
 
-DevOps & Infrastructure
+---
 
-Git & Versioning Standards
-
-Linux Server Management
-
-CI/CD Deployment Practices
-
-Vercel, Netlify, and VPS Deployment Pipelines
-
-Environment & Configuration Management
-
-Core Professional Strengths
-
-Ability to handle high project volume with structured execution
-
-Delivery-focused mindset with predictable timelines
-
-Strong understanding of frontend–backend integration
-
-Experience in building reusable, scalable UI/UX systems
-
-Clear, organized, and professional communication
-
-Long-term maintainability through clean architecture principles
-
-Service Capabilities
-
-Full-Stack Web Application Development
-
-Corporate Website & Company Profile Systems
-
-Internal Dashboards & Operational Platforms
-
-API Development and Cross-Platform Integration
-
-Frontend Architecture Modernization
-
-Performance Optimization & System Scalability
-
-Infrastructure Setup, Deployment, and Ongoing Support
-
-Development Approach
-
-My work is based on three core principles:
-
-1. Architectural Consistency
-
-Ensuring every project follows modular, scalable, and maintainable patterns.
-
-2. Predictable Delivery
-
-Meeting deadlines reliably and providing clear progress visibility.
-
-3. Long-Term Stability
-
-Building systems that remain flexible, secure, and efficient as business needs evolve.
-
-Technology Stack Preference
-
-Next.js
-
-TypeScript
-
-React
-
-Tailwind CSS
-
-Node.js
-
-Laravel
-
-MySQL / PostgreSQL
-
-Prisma / Eloquent
-
-Vercel / Linux VPS
-
-Contact Information
-
-Email: falikhrifqi69@gmail.com
-
-Portfolio: Available upon request
-Professional Content: Available upon request
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3500&pause=700&color=D4AF37&center=true&vCenter=true&width=600&lines=Thank+You+For+Visiting;Excellence+Is+My+Standard" />
+</p>
