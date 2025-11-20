@@ -1,109 +1,102 @@
-# ⚡ Falikh Rifqi Nail
-**Web Developer • Tech Explorer • Fullstack Builder**
+🔥 Falikh Rifqi Nail — Web Developer & Tech Explorer
+<div align="center"> <img src="https://media.tenor.com/OjF8iDwEqUAAAAAC/coding.gif" width="450"/>
+**Building what I love • Learning what I need
 
-![banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+Crafting modern web applications with precision and passion**
 
-> _"Build fast, fail fast, learn faster."_
+</div>
+🌟 About Me
 
----
+I'm a Web Developer who handles up to 5 active projects daily, mainly built using Next.js.
+Focused on creating scalable, clean, and high-performance applications while continuously exploring modern technologies.
 
-## 🌌 About Me
-Saya adalah Web Developer yang fokus pada pembuatan aplikasi modern, cepat, dan efisien.  
-Menguasai **Next.js, Node.js, Laravel**, sistem backend, UI modern, dan animasi neon.
+🚀 3+ years in web development
 
-Handle **5 project per hari**, terbiasa dengan deadline cepat, dan tetap menjaga clean code.
+🧩 Strong in both frontend & backend logic
 
----
+⚡ Passionate about UI/UX, system design, and automation
 
-## ⚡ Tech Stack & Skills
+🧠 Always leveling up my skillset
 
-### 🚀 Main Stack
-- Next.js, React, TypeScript  
-- Node.js, Express  
-- Laravel, PHP  
-- PostgreSQL, MySQL  
-- TailwindCSS, Shadcn/UI  
-- API Integration, Deployment, Git, CI/CD  
+🛠️ Tech Stack
+Frontend
 
-### 🎨 Frontend & Motion
-- Neon Glow UI  
-- Hover 3D Effects  
-- Glitch Text  
-- Scroll / Parallax Animation  
-- Cyberpunk Interface  
+Next.js
 
----
+React
 
-## 🧩 Services
-- ⚡ Web App (Next.js)  
-- 🚀 Backend & API  
-- 🎨 UI/UX Motion Development  
-- 🔧 System Automation  
+TypeScript
 
----
+Tailwind CSS
 
-## 🎖 Custom Badges
-![badge1](https://img.shields.io/badge/Next.js-Specialist-000?style=for-the-badge&logo=next.js)
-![badge2](https://img.shields.io/badge/Fullstack-Developer-7000ff?style=for-the-badge&logo=react)
-![badge3](https://img.shields.io/badge/Cyberpunk-UI_Designer-00f0ff?style=for-the-badge)
-![badge4](https://img.shields.io/badge/5_Projects/Day-Handler-ff00aa?style=for-the-badge)
+shadcn/ui
 
----
+Vite
 
-## 🕒 Project Timeline
-2025 — IntelJS (Next.js + TS)  
-2024 — MasterMusic (Management System)  
-2023 — Portfolio Revamp v2 (Motion UI)  
-2022 — Furniture Marketplace API Integration
+HTML5, CSS3
 
----
+Backend
 
-## 🖥️ Featured Projects
-- **IntelJS System** – Next.js dashboard modern  
-- **MasterMusic** – Music management system  
-- **SIMAS Intel** – Sistem instansi (Next.js + TS)  
-- **Portfolio Neon V2** – Hover 3D + glitch + particle  
+Node.js
 
----
+Laravel
 
-## 🎞 Coding Vibes (GIF Dijamin Tampil)
-![gif1](https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif)
-![gif2](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+CodeIgniter
 
-![gif3](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
-![gif4](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+Express
 
----
+Tools & Others
 
-## 📊 GitHub Stats (Glow Theme)
-![stats](https://github-readme-stats.vercel.app/api?username=falikh&show_icons=true&theme=tokyonight)
-![streak](https://github-readme-streak-stats.herokuapp.com?user=falikh&theme=tokyonight)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falikh&layout=compact&theme=tokyonight)
+Git & GitHub
 
----
+Linux Server
 
-## 🔁 Daily Coding Routine
+REST API
 
-☕ 08:00 — Debug ringan  
-💻 09:00 — Build component Next.js  
-🚀 11:00 — Deploy & test  
-🍜 13:00 — Break  
-🎨 14:00 — UI + Animations  
-📦 16:00 — Handle 5 project  
-🌙 20:00 — Freelance  
-🔥 23:00 — Belajar AI
+Prisma / Eloquent ORM
 
----
+Deployment (VPS, Vercel, Netlify)
 
-## 🌟 Signature Quote  
-> _"Great things are crafted, not rushed."_
+⚙️ Skills in Detail
 
----
+Building full-stack applications with Next.js
 
-## 🔗 Connect With Me
-- **Email:** falikhrifqi69@gmail.com  
-- **WhatsApp:** 085156796373  
+Creating responsive and modern UI components
 
----
+API integration & system architecture
 
-### © 2025 • Falikh Rifqi Nail • Neon Cyber README
+Authentication & middleware
+
+Database design & optimization
+
+Project management & handling multiple clients at once
+
+📦 Services
+
+💻 Website Development (Next.js / React / Laravel)
+
+🎨 UI/UX Implementation
+
+⚡ Dashboard & Admin Panel
+
+🧩 API Development
+
+🔧 System Maintenance
+
+🚀 Deployment & Optimization
+
+📅 Daily Coding Routine
+Wake up → Coffee → Code → Fix bugs → Build features
+→ Handle 5 Next.js projects → Learn something new → Sleep → Repeat
+
+✨ GitHub Stats (Glow Edition)
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=falikh&show_icons=true&theme=tokyonight&rank_icon=github" width="460" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=falikh&theme=tokyonight" width="460" /> </div>
+🏷️ Custom Badges
+<p align="left"> <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js" /> <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white" /> </p>
+🌐 Connect with Me
+
+📧 Email: falikhrifqi69@gmail.com
+
+🧩 Portfolio (Next.js): coming soon
+
+🎬 TikTok Tech Content: @yourusername
