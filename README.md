@@ -1,102 +1,125 @@
-🔥 Falikh Rifqi Nail — Web Developer & Tech Explorer
-<div align="center"> <img src="https://media.tenor.com/OjF8iDwEqUAAAAAC/coding.gif" width="450"/>
-**Building what I love • Learning what I need
+FALIKH RIFQI NAIL
+Full-Stack Web Developer
+Specialist in Next.js, Modern Frontend Architecture, and Scalable Web Systems
+Professional Overview
 
-Crafting modern web applications with precision and passion**
+I am a full-stack web developer with strong expertise in Next.js and modern web engineering.
+My work focuses on creating high-performance applications with clean architecture, maintainable code policies, and scalable technical foundations.
 
-</div>
-🌟 About Me
+I actively manage multiple projects in parallel—often five or more concurrent Next.js applications—while maintaining consistency, accuracy, and clear communication with stakeholders. My development approach emphasizes reliability, clarity, and long-term sustainability.
 
-I'm a Web Developer who handles up to 5 active projects daily, mainly built using Next.js.
-Focused on creating scalable, clean, and high-performance applications while continuously exploring modern technologies.
+Technical Expertise
+Frontend Engineering
 
-🚀 3+ years in web development
+Next.js (App Router, Server Components, Server Actions)
 
-🧩 Strong in both frontend & backend logic
-
-⚡ Passionate about UI/UX, system design, and automation
-
-🧠 Always leveling up my skillset
-
-🛠️ Tech Stack
-Frontend
-
-Next.js
-
-React
+React Ecosystem
 
 TypeScript
 
+Tailwind CSS & Modular UI Architecture
+
+shadcn/ui Component Standardization
+
+Advanced State Management
+
+Accessibility & Responsive Interface Design
+
+Backend Engineering
+
+Node.js / Express
+
+Laravel Framework
+
+CodeIgniter
+
+API Development & Integration
+
+Authentication & Authorization Systems
+
+Database Architecture (MySQL, PostgreSQL, Prisma, Eloquent)
+
+DevOps & Infrastructure
+
+Git & Versioning Standards
+
+Linux Server Management
+
+CI/CD Deployment Practices
+
+Vercel, Netlify, and VPS Deployment Pipelines
+
+Environment & Configuration Management
+
+Core Professional Strengths
+
+Ability to handle high project volume with structured execution
+
+Delivery-focused mindset with predictable timelines
+
+Strong understanding of frontend–backend integration
+
+Experience in building reusable, scalable UI/UX systems
+
+Clear, organized, and professional communication
+
+Long-term maintainability through clean architecture principles
+
+Service Capabilities
+
+Full-Stack Web Application Development
+
+Corporate Website & Company Profile Systems
+
+Internal Dashboards & Operational Platforms
+
+API Development and Cross-Platform Integration
+
+Frontend Architecture Modernization
+
+Performance Optimization & System Scalability
+
+Infrastructure Setup, Deployment, and Ongoing Support
+
+Development Approach
+
+My work is based on three core principles:
+
+1. Architectural Consistency
+
+Ensuring every project follows modular, scalable, and maintainable patterns.
+
+2. Predictable Delivery
+
+Meeting deadlines reliably and providing clear progress visibility.
+
+3. Long-Term Stability
+
+Building systems that remain flexible, secure, and efficient as business needs evolve.
+
+Technology Stack Preference
+
+Next.js
+
+TypeScript
+
+React
+
 Tailwind CSS
-
-shadcn/ui
-
-Vite
-
-HTML5, CSS3
-
-Backend
 
 Node.js
 
 Laravel
 
-CodeIgniter
+MySQL / PostgreSQL
 
-Express
+Prisma / Eloquent
 
-Tools & Others
+Vercel / Linux VPS
 
-Git & GitHub
+Contact Information
 
-Linux Server
+Email: falikhrifqi69@gmail.com
 
-REST API
-
-Prisma / Eloquent ORM
-
-Deployment (VPS, Vercel, Netlify)
-
-⚙️ Skills in Detail
-
-Building full-stack applications with Next.js
-
-Creating responsive and modern UI components
-
-API integration & system architecture
-
-Authentication & middleware
-
-Database design & optimization
-
-Project management & handling multiple clients at once
-
-📦 Services
-
-💻 Website Development (Next.js / React / Laravel)
-
-🎨 UI/UX Implementation
-
-⚡ Dashboard & Admin Panel
-
-🧩 API Development
-
-🔧 System Maintenance
-
-🚀 Deployment & Optimization
-
-📅 Daily Coding Routine
-Wake up → Coffee → Code → Fix bugs → Build features
-→ Handle 5 Next.js projects → Learn something new → Sleep → Repeat
-
-✨ GitHub Stats (Glow Edition)
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=falikh&show_icons=true&theme=tokyonight&rank_icon=github" width="460" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=falikh&theme=tokyonight" width="460" /> </div>
-🏷️ Custom Badges
-<p align="left"> <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js" /> <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white" /> </p>
-🌐 Connect with Me
-
-📧 Email: falikhrifqi69@gmail.com
-
-🧩 Portfolio (Next.js): coming soon
-
-🎬 TikTok Tech Content: @yourusername
+Portfolio: Available upon request
+Professional Content: Available upon request
