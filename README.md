@@ -1,96 +1,44 @@
-<!-- Header Title with Gold Gradient -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Garamond&size=40&duration=3000&color=D4AF37&center=true&vCenter=true&width=700&lines=FALIKH+RIFQI+NAIL;Full-Stack+Web+Developer;Next.js+%7C+TypeScript+%7C+Enterprise+Systems" />
-</h1>
+<h1 align="center">Hi 👋, I'm Falikh Rifqi Nail</h1>
+<h3 align="center">A passionate Web Developer from Indonesia</h3>
 
-<!-- Gold Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoodhin/rodrigoodhin/main/gold-divider.gif" width="600" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=falikhnail&label=Profile%20views&color=0e75b6&style=flat" alt="falikhnail" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=falikhnail" alt="falikhnail" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/imlyzng" target="blank"><img src="https://img.shields.io/twitter/follow/imlyzng?logo=twitter&style=for-the-badge" alt="imlyzng" /></a> </p>
+
+- 🔭 I’m currently working on [Point of Sale (POS) Applications – Dimsum & Pharmacy](https://github.com/falikhnail/Point-Of-Sales-DD)
+
+- 🌱 I’m currently learning **React, Next.js, TypeScript, GSAP animations, and Cloud deployment**
+
+- 👯 I’m looking to collaborate on [Web-based POS, dashboards, and real-time systems](https://github.com/falikhnail/pharmacy-management-system)
+
+- 🤝 I’m looking for help with [Optimizing performance & scalable full-stack architecture](https://github.com/falikhnail/V2-Final)
+
+- 👨‍💻 All of my projects are available at [https://falikh-rifqi-nail.vercel.app/](https://falikh-rifqi-nail.vercel.app/)
+
+- 📝 I regularly write articles on [https://falikh-rifqi-nail.vercel.app/](https://falikh-rifqi-nail.vercel.app/)
+
+- 💬 Ask me about **Laravel, React, Next.js, Tailwind, GSAP, Laravel, REST API, and deployment**
+
+- 📫 How to reach me **falikhrifqi69@gmail.com**
+
+- ⚡ Fun fact **I love building real projects to solve real problems**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/imlyzng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imlyzng" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/falikh-rifqi-nail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="falikh-rifqi-nail" height="30" width="40" /></a>
+<a href="https://fb.com/falikhnail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="falikhnail" height="30" width="40" /></a>
+<a href="https://instagram.com/falikhnail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="falikhnail" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/falikhnail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="falikhnail" height="30" width="40" /></a>
 </p>
 
-## 🟦 **Professional Summary**
-I am a full-stack web developer specializing in **Next.js**, **TypeScript**, and enterprise-grade web systems.  
-I manage multiple high-demand projects simultaneously with architectural consistency, predictable delivery,  
-and long-term maintainability.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=falikhnail&show_icons=true&locale=en&layout=compact" alt="falikhnail" /></p>
 
-# 🟨 **Skills — Premium Gold Edition**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=falikhnail&show_icons=true&locale=en" alt="falikhnail" /></p>
 
-## **Frontend Development**
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37" />
-</p>
-
-## **Backend Development**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/CodeIgniter-000000?style=for-the-badge&logo=codeigniter&logoColor=D4AF37" />
-</p>
-
-## **Database & ORMs**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Eloquent ORM-000000?style=for-the-badge&logo=laravel&logoColor=D4AF37" />
-</p>
-
-## **DevOps & Deployment**
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Linux%20Server-000000?style=for-the-badge&logo=linux&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=D4AF37" />
-</p>
-
-## **Other Skills**
-<p>
-  <img src="https://img.shields.io/badge/API%20Integration-000000?style=for-the-badge&logo=internetcomputer&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/UI%2FUX%20System%20Design-000000?style=for-the-badge&logo=figma&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Performance%20Optimization-000000?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" />
-</p>
-
----
-
-## 🟧 **Enterprise Capabilities**
-- Full-stack development with scalable architecture  
-- Next.js SSR/ISR optimization  
-- Backend API & authentication systems  
-- UI/UX component system engineering (shadcn/ui)  
-- Security, performance, and infrastructure reliability  
-- Multi-project execution (up to 5+ Next.js systems)
-
----
-
-## 🟩 **Animated GitHub Stats — Gold Frame**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=falikh&show_icons=true&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=000000" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=falikh&theme=black-ice&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" height="170" />
-</p>
-
----
-
-## 🟨 **Luxury Animated Wave**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
-</p>
-
----
-
-## 🖤 **Contact**
-**Email:** falikhrifqi69@gmail.com  
-**Portfolio:** Available on Request  
-**Enterprise Projects:** Currently Active
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3500&pause=700&color=D4AF37&center=true&vCenter=true&width=600&lines=Thank+You+For+Visiting;Excellence+Is+My+Standard" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=falikhnail&" alt="falikhnail" /></p>
